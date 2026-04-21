@@ -1,0 +1,6 @@
+[SUCCESS] Loaded: ../data/chest_xray/train/NORMAL/IM-0115-0001.jpeg
+Dimensions: 2090 x 1858
+Pixel Count: 3883220
+Original Channels: 1
+Sample Pixels: 22 24 24 23 22 
+Audit Passed: Image loaded correctly.
