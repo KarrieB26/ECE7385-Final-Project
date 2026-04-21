@@ -1,0 +1,25 @@
+g++ -O3 cpu_baseline.cpp -o test_baseline
+./test_baseline
+Histogram bins 0-9:
+  bin[0] = 1
+  bin[1] = 1
+  bin[2] = 1
+  bin[3] = 1
+  bin[4] = 1
+  bin[5] = 1
+  bin[6] = 1
+  bin[7] = 1
+  bin[8] = 1
+  bin[9] = 1
+CDF bins 0-9:
+  cdf[0] = 1
+  cdf[1] = 2
+  cdf[2] = 3
+  cdf[3] = 4
+  cdf[4] = 5
+  cdf[5] = 6
+  cdf[6] = 7
+  cdf[7] = 8
+  cdf[8] = 9
+  cdf[9] = 10
+CDF final value (must equal 10): 10
