@@ -1,0 +1,4 @@
+[Config] n=1048576 bins=256 threads=256 blocks=4096
+[Naive GPU] Kernel time: 0.1563 ms
+[PASS] Histogram matches CPU
+[Naive GPU] Sum of histogram bins (must equal 1048576): 1048576
