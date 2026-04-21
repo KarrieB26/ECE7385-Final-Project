@@ -1,0 +1,7 @@
+==PROF== Connected to process 3154297 (/users/ttho/ECE7385-Final-Project/hist_bench)
+==ERROR== ERR_NVGPUCTRPERM - The user does not have permission to access NVIDIA GPU Performance Counters on the target device 0. For instructions on enabling permissions and to get more information see https://developer.nvidia.com/ERR_NVGPUCTRPERM
+[Config] n=1048576 bins=256 threads=256 blocks=4096
+[Naive GPU] Kernel time: 1.1863 ms
+[PASS] Histogram matches CPU
+[Naive GPU] Sum of histogram bins (must equal 1048576): 1048576
+==PROF== Disconnected from process 3154297
